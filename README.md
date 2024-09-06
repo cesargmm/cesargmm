@@ -1,6 +1,6 @@
 ## Hi, I'm Cesar 👋
 
-- 🔭 I work as a Devops developer
+- 🔭 I work as a DevOps developer
 - 🌱 I'm currently trying to learn Go
 
 ![cesargmm's Stats](https://github-readme-stats.vercel.app/api?username=cesargmm&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
