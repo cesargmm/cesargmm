@@ -1,8 +1,24 @@
-## Hi, I'm Cesar 👋
+# Hi there, I'm Cesar 👋
 
-- 🔭 I work as DevOps tech
-- 🌱 I'm currently trying to learn Go
+I'm a **DevOps Engineer** specializing in automating and managing cloud infrastructure.
 
-![cesargmm's Stats](https://github-readme-stats.vercel.app/api?username=cesargmm&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+## 🛠️ Core Competencies & Technologies
+
+*   **Cloud Platform:** Microsoft Azure
+*   **Infrastructure as Code:** Terraform, Ansible
+*   **CI/CD:** GitHub Actions
+*   **Containerization:** Docker
+*   **Version Control:** Git / GitHub
+*   **Scripting:** Bash, PowerShell
+*   **Operating Systems:** Linux
+
+## 🌱 Current Learning
+
+*   **Go (Golang)**
+*   **Kubernetes**
+
+## 📫 Connect with Me
+
+*   **LinkedIn:** https://www.linkedin.com/in/cesar-gonzalez-marcos/
 
 ![cesargmm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesargmm&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
