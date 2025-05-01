@@ -1,6 +1,6 @@
 # Hi there, I'm Cesar 👋
 
-I'm a **DevOps Engineer** specializing in automating and managing cloud infrastructure.
+I'm a **DevOps Technician** specializing in automating and managing cloud infrastructure.
 
 ## 🛠️ Core Competencies & Technologies
 
