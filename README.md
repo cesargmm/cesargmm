@@ -1,24 +1,16 @@
 # Hi there, I'm Cesar 👋
 
-I'm a **DevOps Technician** specializing in automating and managing cloud infrastructure.
+I'm a **Cloud Technician** specializing in automating and managing cloud infrastructure. 
 
-## 🛠️ Core Competencies & Technologies
+## 🛠️ Competencies
 
-*   **Cloud Platform:** Microsoft Azure
-*   **Infrastructure as Code:** Terraform, Ansible
-*   **CI/CD:** GitHub Actions
-*   **Containerization:** Docker
-*   **Version Control:** Git / GitHub
-*   **Scripting:** Bash, PowerShell
-*   **Operating Systems:** Linux
+`Azure` `Terraform` `Ansible` `GitHub Actions` `Docker` `Git` `Bash` `PowerShell` `Linux`
 
-## 🌱 Current Learning
+## 🌱 Currently Learning
 
-*   **Go (Golang)**
-*   **Kubernetes**
+`Go` `Python` `Kubernetes`
 
 ## 📫 Connect with Me
 
-*   **LinkedIn:** https://www.linkedin.com/in/cesar-gonzalez-marcos/
-
-![cesargmm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cesargmm&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+* [LinkedIn](https://www.linkedin.com/in/cesar-gonzalez-marcos/)
+* [Email](mailto:cesar.gmm@outlook.com)
